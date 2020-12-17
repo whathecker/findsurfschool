@@ -2,7 +2,7 @@
 Public respository for findsurfschool.com
 
 ## project overview
-findsurfschool.com is my hobby project with a sub-goal to practice my technical skills and gain experience with few technologies that I'm interested (mainly kubernetes) 
+findsurfschool.com is my hobby project with a sub-goal to practice my technical skills and gain experience with few technologies that I'm interested (mainly [kubernetes](https://kubernetes.io/)) 
 
 website: [link](https://www.findsurfschool.com)
 
