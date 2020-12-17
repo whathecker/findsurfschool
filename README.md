@@ -1,11 +1,10 @@
 # findsurfschool
 Public respository for findsurfschool.com 
 
+[Website](https://www.findsurfschool.com) (It's unfinished, but you can search "netherland" or "scheveningen", "zandfoort" to see the search result)
 
 ## Project Overview
 findsurfschool.com is my hobby project with a sub-goal to practice my technical skills and get experience with few technologies that I'm interested (mainly [kubernetes](https://kubernetes.io/)) 
-
-[Website](https://www.findsurfschool.com) (It's unfinished, but you can search "netherland" or "scheveningen", "zandfoort" to see the search result)
 
 This project use multi-repos and it consists of following 4 private repos:
 
