@@ -9,13 +9,13 @@ website (unfinished): [link](https://www.findsurfschool.com)
 
 This project use multi-repos and it consists of following 4 private repos:
 
-1. surfschool-finder-k8s: repository contains all kubernetes manifests
+1. surfschool-finder-k8s: Repository contains all kubernetes manifests
 
-2. surfschool-finder-frontend: user interface of findsurfschool.com, it's a server-side rendered React application (NextJS)
+2. surfschool-finder-frontend: User interface of findsurfschool.com, it's a server-side rendered React application (NextJS)
 
-3. surfschool-finder-content: simple read only API written in NodeJS, it powers search functionality and surf school details
+3. surfschool-finder-content: Simple read only API written in NodeJS, it powers search functionality and surf school details
 
-4. surfschool-finder-lead: TypeScript application to process the form request. the [API](https://api.findsurfschool.com/leadservice/api-docs/) talks to the GCloud function that sends an email to my Gmail account by impersonating myself. architecture of the application is designed based on [Clean Architecture style by Uncle Bob](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+4. surfschool-finder-lead: TypeScript application to process the form request. the [API](https://api.findsurfschool.com/leadservice/api-docs/) talks to the GCloud function that sends an email to my Gmail account by impersonating myself. Architecture of the application is designed based on [Clean Architecture by Uncle Bob](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 
 
 ## infrastucture
