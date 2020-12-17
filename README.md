@@ -5,7 +5,7 @@ Public respository for findsurfschool.com
 ## project overview
 findsurfschool.com is my hobby project with a sub-goal to practice my technical skills and get experience with few technologies that I'm interested (mainly [kubernetes](https://kubernetes.io/)) 
 
-website (unfinished yet): [link](https://www.findsurfschool.com)
+website (unfinished): [link](https://www.findsurfschool.com)
 
 This project use multi-repos and it consists of following 4 private repos:
 
